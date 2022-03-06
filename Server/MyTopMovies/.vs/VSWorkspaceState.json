@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\my-top-movies-client",
+    "\\MyTopMovies",
+    "\\MyTopMovies\\Properties",
+    "\\MyTopMovies\\RepositoryLayer",
+    "\\MyTopMovies\\ServiceLayer"
+  ],
+  "SelectedNode": "\\MyTopMovies\\ServiceLayer\\MoviesService.cs",
+  "PreviewInSolutionExplorer": false
+}

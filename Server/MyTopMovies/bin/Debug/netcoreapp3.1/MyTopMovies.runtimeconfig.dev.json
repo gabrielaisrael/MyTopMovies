@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\GP-Gabriela\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\GP-Gabriela\\.nuget\\packages"
+    ]
+  }
+}
